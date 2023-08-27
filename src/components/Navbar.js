@@ -13,7 +13,7 @@ export default function Navbar() {
       <nav className="burger">
         <img
           src={require("../assets/nav-logo.png")}
-          alt="Little Lemon logo"
+          alt="Kapryz logo"
           className="nav-image"
         ></img>
 

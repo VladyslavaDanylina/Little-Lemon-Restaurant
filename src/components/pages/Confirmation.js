@@ -6,7 +6,7 @@ export default function Confirmation() {
       <img
         className="confirmation-image"
         src={HeroImage}
-        alt="Little Lemon Ingredients"
+        alt="Kapryz Ingredients"
       ></img>
       <section className="reserve-header-text">
         <h1>Your Reservation is Confirmed!</h1>
@@ -17,7 +17,7 @@ export default function Confirmation() {
       <section className="redirect-buttons">
         <a
           className="redirect-button"
-          href={require("../../assets/menu.webp")}
+          href={require("../../assets/menu.jpeg")}
           target="_blank"
           rel="noreferrer"
         >

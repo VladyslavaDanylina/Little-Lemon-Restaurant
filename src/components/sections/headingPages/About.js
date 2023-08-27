@@ -2,12 +2,9 @@ export default function About() {
     return (
         <article className="about-us">
             <section className="hero-text">
-                <h1>Little Lemon</h1>
-                <h2>Chicago</h2>
-                <p className="about-subtext">Little Lemon opened in 1995 by two Italian brothers, Adrian and Mario. 
-                Despite the city's diversity, the two brothers recognized the lack of Mediterranean cuisine in Chicago, 
-                and were inspired to bring the flavors of their hometown in Italy to the people of Chicago. The two brothers 
-                continue to oversee the Little Lemon restaurant, nearly thirty years later.</p>
+                <h1>Kapryz</h1>
+                <h2>Everywhere</h2>
+                <p className="about-subtext">At the restaurant, we believe that space makaroni monster is a bridge that connects cultures, families, and friends. Our journey began 2000 years ago when a group of food enthusiasts decided to transform their love for cooking into a unique dining destination. Since then, we have been dedicated to crafting exceptional dishes that ignite the senses and leave lasting memories for 2000 years ahead.</p>
             </section>
 
             <section className="double-image">

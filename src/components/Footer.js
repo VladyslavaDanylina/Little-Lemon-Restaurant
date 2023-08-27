@@ -6,7 +6,7 @@ export default function Footer() {
         <li className="img-footer">
           <img
             src={require("../assets/footer-logo.png")}
-            alt="Little Lemon logo"
+            alt="Kapryz logo"
           ></img>
         </li>
         <li className="contact">
@@ -15,7 +15,7 @@ export default function Footer() {
             <Link to="/">Home</Link>
             <Link to="/about">About</Link>
             <a
-              href={require("../assets/menu.webp")}
+              href={require("../assets/menu.jpeg")}
               target="_blank"
               rel="noreferrer"
             >
@@ -30,17 +30,17 @@ export default function Footer() {
         <li>
           <h1 className="footer-header">Contact</h1>
           <ul className="footer-links">
-            <li>2395 Maldove Way,</li>
-            <li>Chicago Illinois</li>
+            <li>Untitled Street, Untitled Country</li>
+            <li>Untitled Street, Untitled Country</li>
             <br></br>
-            <li>(629)-243-6827</li>
+            <li>(123)-456-7891</li>
             <br></br>
             <a
-              href="mailto: info@littlelemon.com"
+              href="mailto: info@kapryz.com"
               target="_blank"
               rel="noreferrer"
             >
-              info@littlelemon.com
+              info@kapryz.com
             </a>
           </ul>
         </li>
@@ -48,14 +48,14 @@ export default function Footer() {
           <h1 className="footer-header">Connect</h1>
           <ul className="footer-links">
             <a
-              href="https://www.facebook.com/thelittlelemonshop/"
+              href="https://www.facebook.com/kapryz/"
               target="_blank"
               rel="noreferrer"
             >
               Facebook
             </a>
             <a
-              href="https://www.instagram.com/littlelemonmoon/"
+              href="https://www.instagram.com/kapryz/"
               target="_blank"
               rel="noreferrer"
             >

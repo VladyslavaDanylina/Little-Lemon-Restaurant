@@ -9,21 +9,14 @@ export default function Testimonials() {
 
 
             <section className="testimonials-cards">
-                <TestimonialCard name="Micheal Caldwell" description="This is the best Mediterranean food that I've ever had!"/>
-                <TestimonialCard name="Alan Chen" description="My Shiba Inu, Mugi, really loved the cozy vibes and 
-                delicious food here."/>
-                <TestimonialCard name="Casey Lau" description="I've had some great Mediterranean food before, but none of them beats
-             Little Lemon in flavor and texture."/>
-                <TestimonialCard name="John Rosenblum" description="Great food, welcoming staff, cozy atmosphere. A great place to 
-                treat your kids to."/>
-                <TestimonialCard name="Jim Reynor" description="The food here really refreshed me after a late night shift
-                at the local supply depot."/>
-                <TestimonialCard name="Brian Dean" description="I came to Little Lemon after a 5 hour flight from the East Coast.
-                 The food here tasted so delicious after the trip here."/>
-                <TestimonialCard name="Tyler Tohmine" description="The food here was fire!! Everyone should try this place
-                 out at least once if they live in Chicago."/>
-                <TestimonialCard name="Jack Hu" description="This restaurant served as a perfect dinner for me after a 
-                long night of studying. I would definitely order from here again!"/>
+            <TestimonialCard name="Emily Johnson" description="The service was top-notch; the staff, including our server, Rachel, were attentive and friendly. I'll definitely be coming back for more!"/>
+            <TestimonialCard name="Michael Williams" description="I tried their curry platter, and it was a journey through different spice profiles."/>
+            <TestimonialCard name="Jessica Martinez" description="The authenticity of their Italian cuisine is remarkable. "/>
+            <TestimonialCard name="David Thompson" description="I went during the lunch rush, so service was a tad slow, but once the food arrived, I was in heaven. "/>
+            <TestimonialCard name="Sarah Miller" description=" From the moment we walked in, the atmosphere was charming and welcoming. The menu offered a wide range of dishes, and every item we ordered was a burst of flavor."/>
+            <TestimonialCard name="Benjamin Davis" description="I particularly loved the attention to dietary preferences. As a vegetarian, I had plenty of options, and each one was delicious. The service was friendly and efficient, thanks to our server, Sarah."/>
+            <TestimonialCard name="Olivia Thompson" description="Their wine selection perfectly complemented the dishes. The attention to detail in presentation was impressive."/>
+            <TestimonialCard name="Ethan Rodriguez" description="The attention to detail in every aspect, from the décor to the food, was evident. The dishes were innovative yet rooted in classic flavors. "/>
             </section>
 
             <section className="testimonials-carousel">
